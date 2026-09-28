@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|solutionrelative:Figuras Classe3\\Cuadrado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Cuadrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|solutionrelative:Figuras Classe3\\Cuadrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|solutionrelative:Figuras Classe3\\Figura.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|solutionrelative:Figuras Classe3\\Circulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|solutionrelative:Figuras Classe3\\Figura.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figuras Classe3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB70A200-7F24-4CFD-9EA9-5E93528E9B53}|Figuras Classe3\\Figuras Classe3.vcxproj|solutionrelative:Figuras Classe3\\Figuras Classe3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.h",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figura.h",
+              "RelativeDocumentMoniker": "Figuras Classe3\\Figura.h",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figura.h",
+              "RelativeToolTip": "Figuras Classe3\\Figura.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-24T14:33:37.155Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.h",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Circulo.h",
+              "RelativeDocumentMoniker": "Figuras Classe3\\Circulo.h",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Circulo.h",
+              "RelativeToolTip": "Figuras Classe3\\Circulo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-24T14:37:40.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figura.cpp",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figura.cpp",
+              "RelativeDocumentMoniker": "Figuras Classe3\\Figura.cpp",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figura.cpp",
+              "RelativeToolTip": "Figuras Classe3\\Figura.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:51:06.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrado.cpp",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Cuadrado.cpp",
+              "RelativeDocumentMoniker": "Figuras Classe3\\Cuadrado.cpp",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Cuadrado.cpp",
+              "RelativeToolTip": "Figuras Classe3\\Cuadrado.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:43:08.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuadrado.h",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Cuadrado.h",
+              "RelativeDocumentMoniker": "Figuras Classe3\\Cuadrado.h",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Cuadrado.h",
+              "RelativeToolTip": "Figuras Classe3\\Cuadrado.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-24T14:41:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Figuras Classe3.cpp",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figuras Classe3.cpp",
+              "RelativeDocumentMoniker": "Figuras Classe3\\Figuras Classe3.cpp",
+              "ToolTip": "C:\\Users\\marti\\Documents\\GitHub\\ADD-2026-27\\Figuras Classe3\\Figuras Classe3\\Figuras Classe3.cpp",
+              "RelativeToolTip": "Figuras Classe3\\Figuras Classe3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-24T14:32:16.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

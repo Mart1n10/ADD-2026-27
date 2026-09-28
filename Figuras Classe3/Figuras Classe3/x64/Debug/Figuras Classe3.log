@@ -1,0 +1,27 @@
+﻿  Circulo.cpp
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.h(9,8): error C3668: 'Circulo::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Circulo.cpp")
+  
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.cpp(3,16): error C2511: 'float Circulo::area(void) const': la función miembro sobrecargada no se ha encontrado en 'Circulo'
+      C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.h(3,7):
+      vea la declaración de 'Circulo'
+  
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.cpp(5,23): error C2597: referencia no válida a miembro no static 'Circulo::radio'
+      C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.cpp(5,23):
+      vea la declaración de 'Circulo::radio'
+  
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.cpp(5,23): error C3867: 'Circulo::radio': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.cpp(5,23): error C2568: '*': no se puede resolver la sobrecarga de funciones
+  Cuadrado.cpp
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Cuadrado.h(9,8): error C3668: 'Cuadrado::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Cuadrado.cpp")
+  
+  Figura.cpp
+  Figuras Classe3.cpp
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Circulo.h(9,8): error C3668: 'Circulo::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Figuras%20Classe3.cpp")
+  
+C:\Users\marti\Documents\GitHub\ADD-2026-27\Figuras Classe3\Figuras Classe3\Cuadrado.h(9,8): error C3668: 'Cuadrado::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Figuras%20Classe3.cpp")
+  
+  Generando código...
