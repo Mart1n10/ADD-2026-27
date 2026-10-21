@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Pokedex>
+    <Pokemon Pokemon="Pikachu">
+        <hp>100</hp>
+    </Pokemon>
+    <Pokemon Pokemon="Ariel">
+        <hp>100</hp>
+    </Pokemon>
+</Pokedex>

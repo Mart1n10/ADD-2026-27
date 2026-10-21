@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mundo>
+  <npc><nombre>Guardian</nombre><vida>100</vida><x>10</x><y>2</y><z>5</z></npc>
+  <npc><nombre>Mercader</nombre><vida>80</vida><x>4</x><y>0</y><z>9</z></npc>
+  <npc><nombre>Enemigo</nombre><vida>40</vida><x>8</x><y>3</y><z>1</z></npc>
+</mundo>
